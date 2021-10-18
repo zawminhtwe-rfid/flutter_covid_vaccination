@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458371862162",
+    "project_id": "covid-vaccination-b27df",
+    "storage_bucket": "covid-vaccination-b27df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458371862162:android:42b3d85c02fb3edd98a04b",
+        "android_client_info": {
+          "package_name": "com.example.covid19_vaccination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458371862162-q4km4prqk3h13hu9sddqid734mf49mm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covid19_vaccination",
+            "certificate_hash": "05b80601853a81ea1e107739a04e228700cc4d5d"
+          }
+        },
+        {
+          "client_id": "458371862162-utteoqhr69t2btl4hs7kb2a3kiosbgs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_t8AVhQ0bZskWcOBeT06L1LHlgCP9Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458371862162-utteoqhr69t2btl4hs7kb2a3kiosbgs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

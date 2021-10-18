@@ -1,0 +1,52 @@
+Request body for testing api
+==========================
+https://localhost/covid19vaccinationapi/loadcombo.php
+{
+    "action":"quarter" ,
+    "cityid":1
+}
+=============================================================
+https://localhost/covid19vaccinationapi/peopleregister.php
+{
+    "action":"save",
+    "name":"ab",
+    "fathername":"c",
+    "dob":"1993-05-31",
+    "age":"20",
+    "gender":"Male",
+    "phno":"09123456",
+    "email":"ko@gmail.com",
+    "nrcdivision":"1",
+    "nrccity":"2",
+    "nrcno":"123456",
+    "division":"1",
+    "city":"2",
+    "quarter":"2",
+    "username":"aung",
+    "password":"123456"
+}
+===============================================================
+https://localhost/covid19vaccinationapi/profile.php
+{
+    "action":"showprofile",
+    "pid":7
+}
+==============================================================
+https://localhost/covid19vaccinationapi/profile.php
+{
+    "action":"chgprofile",
+    "pid":7,
+    "name":"ab",
+    "fathername":"Maung Maung",
+    "dob":"1993-06-30",
+    "age":"20",
+    "gender":"Male",
+    "phno":"091234561123",
+    "email":"ko@gmail.com",
+    "nrcdivision":"1",
+    "nrccity":"2",
+    "nrcno":"123456",
+    "division":"1",
+    "city":"2",
+    "quarter":"2"
+}
